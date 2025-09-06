@@ -1,0 +1,11 @@
+title: Mutemate
+description: Mute your microphone anywhere
+url: https://noppefoxwolf.github.io/mutemate-pages
+
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
+
+# Site settings
+email: noppelabs@gmail.com
+accent_color: "#dc2626"

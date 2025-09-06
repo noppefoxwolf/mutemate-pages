@@ -59,6 +59,12 @@ THE APP IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. WE DISCLAIM ALL WARRAN
 - Non-infringement
 - Accuracy or completeness
 
+**WE DO NOT GUARANTEE THE OPERATION OR AVAILABILITY OF MUTEMATE UNDER ANY CIRCUMSTANCES. THE APP MAY NOT FUNCTION AS EXPECTED DUE TO SYSTEM CONFIGURATIONS, SOFTWARE CONFLICTS, OR OTHER FACTORS BEYOND OUR CONTROL.**
+
+## Important Usage Notice
+
+**MUTEMATE IS NOT RECOMMENDED FOR USE IN CONFIDENTIAL OR HIGH-SECURITY ENVIRONMENTS.** If you require guaranteed microphone control for confidential meetings, sensitive communications, or security-critical scenarios, please use alternative methods to ensure complete privacy and security. While Mutemate aims to provide reliable mute functionality, technical limitations or system conflicts may prevent proper operation in critical situations.
+
 ## Limitation of Liability
 
 IN NO EVENT SHALL WE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF USE, OR LOSS OF PROFITS.
